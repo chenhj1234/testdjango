@@ -1,0 +1,4 @@
+django-admin startproject exercise
+python manage.py runserver 0:8000
+python manage.py startapp hello
+
